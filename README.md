@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Nasirul Islam Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh, Sylhet, 3100</h3>
+<h3 align="center">A Passionate Full Stack Software Developer From Bangladesh, Sylhet, 3100</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicchy123" alt="nicchy123" /></a> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Postgresql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nicchy123](https://github.com/nicchy123)
 
