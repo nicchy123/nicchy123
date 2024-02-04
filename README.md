@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nasirchy252@gmail.com**
 
-- 📄 Visit My Resume:  [https://drive.google.com/file/d/1gJNWkGaiAvgoL8XPeumIkNL5w750sDVJ/view?usp=sharing](https://drive.google.com/file/d/1gJNWkGaiAvgoL8XPeumIkNL5w750sDVJ/view?usp=sharing)
+- 📄 Visit My Resume:  [[https://drive.google.com/file/d/1gJNWkGaiAvgoL8XPeumIkNL5w750sDVJ/view?usp=sharing](https://drive.google.com/file/d/1gJNWkGaiAvgoL8XPeumIkNL5w750sDVJ/view?usp=sharing](https://docs.google.com/document/d/1M4JRFH4EM_EyyQwtkYkHeB4RCA4wE5B3YppjBD0f5m4/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
